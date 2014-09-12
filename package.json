@@ -1,0 +1,39 @@
+{
+  "name": "diy-donutchart",
+  "version": "0.0.1",
+  "description": "Reusable donut chart module for DIY.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js",
+    "start": "cd examples && ../node_modules/.bin/beefy main.js:bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/diy/donutchart"
+  },
+  "author": "Derek Reynolds <drk@diy.org>",
+  "contributors": [
+      {
+        "name": "Ri Liu",
+        "email": "me@ri.id.au",
+        "url": "http://www.ri.id.au/"
+      },
+      {
+        "name": "Derek Reynolds",
+        "email": "drk@diy.org",
+        "url": "https://diy.org/drk"
+      }
+  ],
+  "license": "APACHE 2",
+  "bugs": {
+    "url": "https://github.com/diy/donutchart/issues"
+  },
+  "homepage": "https://github.com/diy/donutchart",
+  "devDependencies": {
+    "beefy": "^2.1.1",
+    "browserify": "^5.11.2"
+  },
+  "dependencies": {
+    "d3": "^3.4.11"
+  }
+}

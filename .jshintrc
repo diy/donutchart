@@ -1,0 +1,21 @@
+{
+    "bitwise": true,
+    "browser": true,
+    "devel": false,
+    "eqeqeq": true,
+    "immed": true,
+    "jquery": true,
+    "latedef": true,
+    "maxdepth": 3,
+    "maxparams": 4,
+    "newcap": true,
+    "noarg": true,
+    "node": true,
+    "proto": true,
+    "quotmark": "single",
+    "undef": true,
+    "unused": true,
+    "globals": {
+        "d3": true
+    }
+}
