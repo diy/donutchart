@@ -2,6 +2,8 @@
 
 Render a donut chart using d3.
 
+[![view on requirebin](http://requirebin.com/badge.png)](http://requirebin.com/?gist=448cdeb44fa804d4e08c)
+
 # example
 
 Let's render a donut chart! MMMM!
